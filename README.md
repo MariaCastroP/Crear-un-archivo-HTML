@@ -6,6 +6,6 @@ Bienvenido, empezamos a programar con HTML.
 
 En este repositorio encontraras un poco de...
 
-Temario/Que es html
+- [Qué es HTML y estructura de archivo](./Temario/Que es html.md)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
