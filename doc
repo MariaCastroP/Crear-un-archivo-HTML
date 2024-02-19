@@ -1,0 +1,43 @@
+<!--Los documentos HTML son archivos extensiones .hmtl o .htm -->
+<!--Pueden ser visualizados en cualquier navegador -->
+<!--Este documento puede ser creado a partir de cualquier editor de texto del que dispongas en tu computadora.-->
+<!-- Los comentarios en HTML se encapsulan entre <!-- y --> este es un comentario -->
+
+<!--ESTRUCTURA DEL CODIGO HTML-->
+
+<!DOCTYPE HTML> 
+<!--Es la etiqueta que define que el documento es HTML-->;
+
+<HTML> 
+<!--Es la principal etiqueta de una página HTML-->;
+
+<HEAD> 
+<!--Es la etiqueta que abre el bloque de información sobre la web-->;
+
+<TITLE> Mi primer documento HTML </TITLE> 
+<!--Acá, escribimos el título genial que daremos a la página web. Ese que aparece en el borde de la ventana del navegador-->
+
+<!--¡Importante! -->
+<!--En la estructura del código HTML, al “abrir” una etiqueta es, muy importante que la cierres. Usando la barra “/” para decir al código que aquel bloque de informaciones ha terminado, justo como lo hicimos en TITLE-->
+
+    <META name=”description ” content= "ejemplo de archivo html">  <!--Informa a los buscadores, por medio de la descripción que creaste, de que se trata tu web-->;
+    <META name=”keywords”  content= "editor de archivo html">     <!--Sirve para que tu web sea encontrada por medio de estas palabras clave-->;
+
+</HEAD> 
+<!-- Aqui estamos cerrando la etiqueta que abrimos para dividir la pagina web, la primera parte corresponde al encabezado -->
+
+<!--Ahora, vamos a elaborar un contenido para ella. Para eso, vamos a trabajar en la etiqueta <BODY> -->
+
+<BODY> 
+
+<h1> Estoy aprendiendo a hacer mi primero documento html </h1>
+<!--La etiqueta <h1> define el título de nivel 1 y se puede extender hasta el <h6> -->
+
+<p> HTML tiene gran variedad de usos, es posible que presentes archivos desde este tipo de documentos, a continuacion te dejamos un ejemplo... </p>
+
+</BODY>
+</HTML>
+
+
+
+
