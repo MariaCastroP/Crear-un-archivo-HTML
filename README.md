@@ -6,11 +6,6 @@ Bienvenido, empezamos a programar con HTML.
 
 En este repositorio encontraras un poco de...
 
-##HTML
-        1. Qué es HTML y estructura de archivo
-        2. Etiquetas básicas
-        3. Elementos compuestos
-        4. Acomodo y navegación
-        5. Propiedades de etiquetas
+Temario/Que es html
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
