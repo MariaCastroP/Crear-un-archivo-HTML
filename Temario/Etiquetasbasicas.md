@@ -32,17 +32,17 @@ Y conoce como break line.
 
 ## Enlaces (links)
 Los enlaces te permiten colocar un link como si fuera un hipervínculo, por medio de una palabra o varias podrás dirigirte al link que le indiques al usuario. 
-~~~css
-  <script> var pathToPDFFiles =  'DOC-CFE-SAMALAYUCA/ </script>
+~~~html
+  <script> var pathToPDFFiles =  'DOC-CFE-SAMALAYUCA/; </script>
 ~~~
-La sintaxis ```pathToPDFFiles``` proporciona una forma de trabajar con directorios y rutas de archivos.
+La sintaxis ```pathToPDFFiles``` proporciona una forma de trabajar con directorios y rutas de archivos. Es muy común que en esta parte pongamos el path principal de todos nuestros documentos
 
 ~~~css
 {"href": "Inventario_Settings"}
 ~~~
 ```href``` significa **“hyper reference”** e indica el link de destino deseado o nombre de documento en un path.Es muy útil cuando queremos llevar al usuario a ciertos documentos estratégicas, por ejemplo, reportes, imagenes, pdfs , etc. 
 
-~~~css
+~~~html
 <script src="jquery.js"></script>
 ~~~
 El atributo ```src``` en una etiquera es la ruta hacia un archivo externo o recurso que quieres enlazar a tu documento HTML. Por ejemplo si tuvieses tu propio archivo personalizado en JavaScript llamado ```jquery.js``` lo agregarias como el ejemplo de arriba 🔝
