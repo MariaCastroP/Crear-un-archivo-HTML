@@ -10,5 +10,6 @@ En este repositorio encontraras un poco de...
 - [Etiquetas basicas](./Temario/02Etiquetasbasicas.md)
 - [Metadatos](./Temario/03Metadatos.md)
 - [Crear un documento html](./Temario/04Crearundocumentohtml.md)
+- [Ejemplo de codigo](./Temario/05Ejemplodecodigo.html)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
