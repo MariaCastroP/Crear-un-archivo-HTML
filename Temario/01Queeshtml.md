@@ -35,6 +35,11 @@ Es el título de nuestro sitio en el head.
 Son etiquetas de estilos nos permite importar archivos de otro tipo como por ejemplo de Javascript, CSS, etc.
 Al ingresar a una página el navegador descarga la página de internet y se lo muestra al cliente. Se descargan los estilos, funcionalidades, etc. Este orden es importante para que la página se visualice de forma ordenada.
 
+~~~html
+<body></body> 
+~~~
+Por último esta el cuerpo de contenido, el lugar donde podrás colocar toda la información necesaria para tu documento. Esta información es la que visualizará en un navegador el usuario final.
+
 > [!IMPORTANT] 
 > En la estructura del código HTML, al “abrir” una etiqueta es, muy importante que la cierres. Usando la barra “/” para decir al código que aquel bloque de informaciones ha terminado.
 > ~~~html
