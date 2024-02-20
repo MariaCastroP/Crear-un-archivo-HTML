@@ -32,7 +32,7 @@ Y conoce como break line.
 
 ## Enlaces (links)
 Te permite colocar un link como si fuera un hipervínculo, por medio de una palabra o varias podrás dirigirte al link que le indiques al usuario, utilizando la siguiente etiqueta 
-~~~html
+~~~css
 {"href": "Inventario_Settings"}
 ~~~
  
