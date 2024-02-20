@@ -12,4 +12,7 @@ En este repositorio encontraras un poco de...
 - [Crear un documento html](./Temario/04Crearundocumentohtml.md)
 - [Ejemplo de codigo](./Temario/05Ejemplodecodigo.html)
 
+> [!TIP]
+> Tu archivo HTML puede ser editado desde cualquier programa de texto, el bloc de notas es uno de ellos.
+
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
