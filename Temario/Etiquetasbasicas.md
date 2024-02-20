@@ -53,3 +53,32 @@ Esto apuntaria a un archivo llamado ```jquery.js``` que esta en el mismo directo
 ~~~
 
 También puedes enlazar otros directorios usando ’..’ en la ruta del archivo. Esto salta un nivel arriba del directorio, luego a un directorio llamado ```js``` y luego al archivo ```jquery.pagination.js```.
+
+## Imágenes 
+~~~html
+<img src="https://i.imgur.com/84QT6os.jpeg" alt="Perritos lindos" width="350px" height="350px">
+~~~
+Contiene dos atributos, **source** o bien "src" que se refiere a la fuente de donde vamos a usar la imagen, la cuál puede ser de forma local o una imagen de internet  y "alt" que significa texto alternativo, este texto alternativo le va a dar la descripción a la imagen. 
+También podemos usar otros atributos como "width" y "height"  donde vamos a poner una cantidad en pixeles que son el alto y el ancho de la imagen. 
+
+## Tablas 
+Este elemento nos sirve para organizar información, imágenes, links, etc.
+~~~html
+<table>
+        <tr>
+            <th>Compañía</th>
+            <th>Contacto</th>
+            <th>País</th>
+        </tr>
+        <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+        <tr>
+            <td>Centro comercial Moctezuma</td>
+            <td>Francisco Chang</td>
+            <td>Mexico</td>
+        </tr>
+    </table>
+~~~
