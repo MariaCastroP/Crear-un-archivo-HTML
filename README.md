@@ -8,6 +8,7 @@ En este repositorio encontraras un poco de...
 
 - [Qué es HTML y estructura de archivo](./Temario/01Queeshtml.md)
 - [Etiquetas basicas](./Temario/02Etiquetasbasicas.md)
-- [Metadatos](./Temario/03Metadatos.md) 
+- [Metadatos](./Temario/03Metadatos.md)
+- [Crear un documento html](./Temario/04Crearundocumentohtml.md)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
