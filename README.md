@@ -6,8 +6,8 @@ Bienvenido, empezamos a programar con HTML.
 
 En este repositorio encontraras un poco de...
 
-- [Qué es HTML y estructura de archivo](./Temario/Queeshtml.md)
-- [Etiquetas basicas](./Temario/Etiquetasbasicas.md)
-- [Metadatos](./Temario/Metadatos.md) 
+- [Qué es HTML y estructura de archivo](./Temario/01Queeshtml.md)
+- [Etiquetas basicas](./Temario/02Etiquetasbasicas.md)
+- [Metadatos](./Temario/03Metadatos.md) 
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
