@@ -14,12 +14,12 @@ A continuacion se presenta la estructura d eun documento html
 Es la etiqueta que define que el documento es HTML
 
 ~~~html
-<HTML> 
+<HTML lang= "en"> </HTML>
 ~~~
-Es la principal etiqueta de una página HTML
+Es la principal etiqueta de una página HTML dónde podemos definir el idioma de nuestra página web
 
 ~~~html
-<HEAD> 
+<head> Bloque de cabecera.Metadatos del documento </head> 
 ~~~
 Es la etiqueta que abre el bloque de información sobre la web <br>
 
@@ -36,14 +36,14 @@ Son etiquetas de estilos nos permite importar archivos de otro tipo como por eje
 Al ingresar a una página el navegador descarga la página de internet y se lo muestra al cliente. Se descargan los estilos, funcionalidades, etc. Este orden es importante para que la página se visualice de forma ordenada.
 
 ~~~html
-<body></body> 
+<body> Contenido de mi web </body> 
 ~~~
 Por último esta el cuerpo de contenido, el lugar donde podrás colocar toda la información necesaria para tu documento. Esta información es la que visualizará en un navegador el usuario final.
 
 > [!IMPORTANT] 
 > En la estructura del código HTML, al “abrir” una etiqueta es, muy importante que la cierres. Usando la barra “/” para decir al código que aquel bloque de informaciones ha terminado.
 > ~~~html
-> <TITLE> Mi primer documento HTML </TITLE>
+> <title> Mi primer documento HTML </title>
 > ~~~
 
 Finalmente tenemos lo siguiente:
